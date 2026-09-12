@@ -1,4 +1,3 @@
-[README_Bombardier_GitHub.md](https://github.com/user-attachments/files/32141664/README_Bombardier_GitHub.md)
 # Bombardier Equity Research Report
 
 ## About the Project
@@ -9,11 +8,7 @@ I chose Bombardier because I genuinely admire the company and was interested in 
 
 The result is my first full equity research report, covering Bombardier's business and industry, financial performance, forecasts, valuation, scenario analysis, and key risks. More than anything, the project was an opportunity to **learn by doing** and better understand how financial concepts translate into real-world decisions and analysis.
 
-## Project Overview
-
-This project is an independently prepared equity research report on **Bombardier Inc. (TSX: BBD.B)**. The report develops a **SELL / UNDERWEIGHT** thesis using fundamental analysis, operating forecasts, discounted cash flow (DCF) valuation, comparable-company analysis, scenario analysis, and sensitivity testing.
-
-The project was created for educational and informational purposes as part of my learning process. It is not financial advice or a recommendation to buy or sell securities.
+This project is an independently prepared equity research report on Bombardier Inc. (TSX: BBD.B). The report develops a SELL / UNDERWEIGHT thesis using fundamental analysis, operating forecasts, discounted cash flow (DCF) valuation, comparable-company analysis, scenario analysis, and sensitivity testing.
 
 ## What the Project Covers
 
@@ -39,17 +34,13 @@ A central part of the thesis is that Bombardier's operational improvement and de
 | Base Case Enterprise Value | **US$19.16B** |
 | Base Case Equity Value | **US$16.18B** |
 | Scenario Range | **C$111.26 – C$305.98 / share** |
-| Sensitivity Scenarios Below Reference Price | **24 / 25** |
+| Sensitivity Cases Below Market Price | **24 / 25** |
 
-The analysis indicates that, under the assumptions used in the model, Bombardier's operating improvements and deleveraging are not sufficient to justify the valuation implied by the reference market price.
+Overall, the analysis suggests that, under the assumptions used in the model, Bombardier's operational improvements and deleveraging do not fully support the valuation implied by the reference market price.
 
 ## The Report
 
-The full equity research report is available here:
-
-**[Open the full report](./Bombardier%20Equity%20Research%20Report_FINAL%282%29.pdf)**
-
-The report includes the full analysis, supporting financial model schedules, valuation outputs, scenario analysis, sensitivity matrices, sources, and disclosures.
+**[Read the full Equity Research Report](./Bombardier%20Equity%20Research%20Report_FINAL%282%29.pdf)**
 
 ## Disclaimer
 
